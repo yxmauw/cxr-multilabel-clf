@@ -1,4 +1,4 @@
-# cxr-multilabel-clf
+# Multi-Label classification using Chest X-rays
 Using dataset from [Kaggle](https://www.kaggle.com/competitions/ranzcr-clip-catheter-line-classification/overview)
 
 First attempt at Pytorch
